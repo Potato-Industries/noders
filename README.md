@@ -1,10 +1,10 @@
 # noders
 
-portable node.js reverse shell using https://github.com/zeit/pkg 
+portable node.js secure reverse shell using https://github.com/zeit/pkg 
 
 **Usage**
 
-- Update noders.js source listener ip,port, binary (cmd.exe, /bin/sh, etc).
+- Update noders.js or noderss.js source listener ip,port, binary (cmd.exe, /bin/sh, etc), ca public key.
 - Compile using pkg to target platform https://github.com/zeit/pkg#targets
 
 Setup
