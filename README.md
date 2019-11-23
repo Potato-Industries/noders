@@ -35,3 +35,8 @@ msedgewin10\ieuser
 
 **AV Detection**
 
+<img width="1317" alt="Screenshot 2019-11-23 at 21 30 06 2" src="https://user-images.githubusercontent.com/56988989/69485670-9e015180-0e3a-11ea-95c4-5a9b2dd88f24.png">
+
+**Limitations**
+
+Portable binary size is at least 30MB. 
