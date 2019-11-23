@@ -9,7 +9,7 @@ portable node.js reverse shell using https://github.com/zeit/pkg
 
 Setup
 ```
-node@kali:/opt/noders# npm install -g pkg
+root@kali:/opt/noders# npm install -g pkg
 root@kali:/opt/noders# pkg -t win noders.js
 > pkg@4.4.0
 > Fetching base Node.js binaries to PKG_CACHE_PATH
